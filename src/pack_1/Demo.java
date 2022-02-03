@@ -17,6 +17,10 @@ public class Demo
     System.out.println("hello");
     System.out.println("this is");
     System.out.println("Git");
+    
+    System.out.println("Second man");
+    System.out.println("second commit");
+    
 	
 	}
 }
